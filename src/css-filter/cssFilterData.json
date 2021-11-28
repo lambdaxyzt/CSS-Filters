@@ -1,0 +1,142 @@
+[{
+    "property":"blur",
+    "unit":"px",
+    "range":{
+        "min":"0",
+        "default":"0",
+        "max":"10",
+        "max-char": "+∞"
+    },
+    "range-word":[
+        {
+
+        }
+    ],
+    "pictureNumber":"6"
+},
+{
+    "property":"brightness",
+    "unit":"percent",
+    "range":{
+        "min":"0",
+        "default":"100",
+        "max":"300",
+        "max-char": "+∞"
+    },
+    "range-word":[
+        "compeletly black",
+        "original image",
+        "more brightness"
+    ],
+    "pictureNumber":"6"
+},
+{
+    "property":"contrast",
+    "unit":"percent",
+    "range":{
+        "min":"0",
+        "default":"100",
+        "max":"300",
+        "max-char": "+∞"
+    },
+    "range-word":[
+        "compeletly black",
+        "original image",
+        "more contrast"
+    ],
+    "pictureNumber":"6"
+},
+{
+    "property":"grayscale",
+    "unit":"percent",
+    "range":{
+        "min":"0",
+        "default":"0",
+        "max":"100"
+    },
+    "range-word":[
+        "original image",
+        "original image",
+        "more contrast"
+    ],
+    "pictureNumber":"6"
+},
+{
+    "property":"hue-rotate",
+    "unit":"deg",
+    "range":{
+        "min":"0",
+        "default":"0",
+        "max":"360"
+    },
+    "range-word":[
+        "original image",
+        "original image",
+        "original image"
+    ],
+    "pictureNumber":"6"
+},
+{
+    "property":"invert",
+    "unit":"percent",
+    "range":{
+        "min":"0",
+        "default":"0",
+        "max":"100"
+    },
+    "range-word":[
+        "original image",
+        "original image",
+        "completely inverted"
+    ],
+    "pictureNumber":"6"
+},
+{
+    "property":"opacity",
+    "unit":"percent",
+    "range":{
+        "min":"0",
+        "default":"100",
+        "max":"100"
+    },
+    "range-word":[
+        "completely transparent",
+        "original image",
+        "original image"
+    ],
+    "pictureNumber":"6"
+},
+{
+    "property":"saturate",
+    "unit":"percent",
+    "range":{
+        "min":"0",
+        "default":"100",
+        "max":"300",
+        "max-char": "+∞"
+    },
+    "range-word":[
+        "completely un-saturated",
+        "original image",
+        "more saturate"
+    ],
+    "pictureNumber":"6"
+},
+{
+    "property":"sepia",
+    "unit":"percent",
+    "range":
+        {
+            "min":"0",
+            "default":"0",
+            "max":"100"
+        }
+    ,
+    "range-word":[
+        "original image",
+        "original image",
+        "completely sepia"
+    ],
+    "pictureNumber":"6"
+}
+]
